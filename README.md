@@ -72,7 +72,7 @@ This is a budget management system built with Node.js that allows users to add i
 ## Awaiting Updates
 
 1. **Add or Alter items**
-   - Allowing user to add thier own items and edit unit price
+   - Allowing user to add their own items and edit unit price
 
 2. **Allow Customizing location and exchange face value**
    - Create more locations for selection
