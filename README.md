@@ -21,6 +21,10 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 ## Overview
 
+[![Product Name Screen Shot One][product-screenshot-one]](https://github.com/Li-HsuanChien/shopping-app)
+
+<hr>
+
 This is a budget management system built with Node.js that allows users to add items to shopping cart, and calculate total expenses. The system also supports changing the money value icon based on the location (Dollar, Pound, Euro, Rupee).
 
 ## Getting Started
@@ -128,7 +132,7 @@ This project is licensed under the Apache 2.0 - see the [LICENSE](LICENSE) file 
 [React-url]: https://reactjs.org/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
-
+[product-screenshot-one]: public/snapshot1.jpg
 [contributors-shield]: https://img.shields.io/github/contributors/Li-HsuanChien/shopping-app.svg?style=for-the-badge
 [contributors-url]: https://github.com/Li-HsuanChien/shopping-app/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Li-HsuanChien/shopping-app.svg?style=for-the-badge
