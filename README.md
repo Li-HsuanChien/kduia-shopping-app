@@ -1,4 +1,15 @@
+<a name="readme-top"></a>
 # Shopping app
+
+### Built With
+
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+
+
+* [![React][React.js]][React-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Overview
 
@@ -12,7 +23,12 @@ This is a budget management system built with Node.js that allows users to add i
 - [Node.js](https://nodejs.org/en/) installed on your machine.
 - [npm (Node Package Manager)](https://www.npmjs.com/) installed.
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ### Running the App
+
+**Manual commands**
 
 1. Clone this repository to your local machine:
 
@@ -59,6 +75,8 @@ This is a budget management system built with Node.js that allows users to add i
     ```
 7. The application will be accessible at `http://localhost:3000/` by default.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Usage
 
 1. **Add Shopping Cart**
@@ -70,6 +88,8 @@ This is a budget management system built with Node.js that allows users to add i
 3. **Change Money Value :**
    - Customize the money value icon based on the target location(UK, India, Europe, Canada).
   
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+  
 ## Awaiting Updates
 
 1. **Add or Alter items**
@@ -77,12 +97,26 @@ This is a budget management system built with Node.js that allows users to add i
 
 2. **Allow Customizing location and exchange face value**
    - Create more locations for selection
-   - create new function tracking exchange rates and exchanging face value 
+   - create new function tracking exchange rates and exchanging face value
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributing
 
-Feel free to contribute to the development of this budget management system by creating issues or pull requests.
+Feel free to contribute to the development of this system by creating issues or pull requests.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
 
 This project is licensed under the Apache 2.0 - see the [LICENSE](LICENSE) file for details.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
+[Bootstrap-url]: https://getbootstrap.com
