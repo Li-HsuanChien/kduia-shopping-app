@@ -25,6 +25,17 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <hr>
 
+- ## Features
+
+  **Add Shopping Cart**
+   - Add or remove item quantity bought into shopping cart
+
+  **Calculate total cost:**
+   - Returns total cost of shopping cart
+
+  **Change Money Value :**
+   - Customize the money value icon based on the target location(UK, India, Europe, Canada).
+
 This is a budget management system built with Node.js that allows users to add items to shopping cart, and calculate total expenses. The system also supports changing the money value icon based on the location (Dollar, Pound, Euro, Rupee).
 
 ## Getting Started
@@ -92,13 +103,13 @@ This is a budget management system built with Node.js that allows users to add i
 ## Usage
 
 1. **Add Shopping Cart**
-   - Add or remove item quantity bought into shopping cart
+   - select product with option selector and insert target quantity to add product in shopping cart
 
 2. **Calculate total cost:**
-   - Returns total cost of shopping cart
+   - calculates total cost at total cost box
 
 3. **Change Money Value :**
-   - Customize the money value icon based on the target location(UK, India, Europe, Canada).
+   - Customize the money value icon based on the target location(UK, India, Europe, Canada) using location bar
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
   
